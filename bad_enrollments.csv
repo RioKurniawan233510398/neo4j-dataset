@@ -1,0 +1,4 @@
+student_id,course_id,semester,grade,attendance
+S001,C001,2026-1,A,95
+S999,C001,2026-1,A,97
+S002,C999,2026-1,B+,88
